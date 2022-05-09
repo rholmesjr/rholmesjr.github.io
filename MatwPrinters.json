@@ -1,0 +1,58 @@
+[
+        {
+	        "Printer_Name": "nsh015",
+	        "Location": "North Shore",
+            "Print_Server": "DC6-SV-PRINT01",
+	        "FQDN": "nsh015.matw.matthewsintl.com",
+	        "mac_ws1_id": 12345,
+            "driver": "driver.pkg"
+        },
+        {
+	        "Printer_Name": "nsh001",
+	        "Location": "North Shore",
+            "Print_Server": "DC6-SV-PRINT01",
+	        "FQDN": "nsh001.matw.matthewsintl.com",
+	        "mac_ws1_id": 12345,
+            "driver": "driver.pkg"
+        },
+        {
+	        "Printer_Name": "nsh013",
+	        "Location": "North Shore",
+            "Print_Server": "DC6-SV-PRINT01",
+	        "FQDN": "nsh013.matw.matthewsintl.com",
+	        "mac_ws1_id": 12345,
+                "driver": "driver.pkg"
+        },
+        {
+	        "Printer_Name": "nsh014",
+	        "Location": "North Shore",
+            "Print_Server": "DC6-SV-PRINT01",
+	        "FQDN": "nsh014.matw.matthewsintl.com",
+	        "mac_ws1_id": 12345,
+                "driver": "driver.pkg"
+        },
+        {
+	        "Printer_Name": "nsh016",
+	        "Location": "North Shore",
+            "Print_Server": "DC6-SV-PRINT01",
+	        "FQDN": "nsh016.matw.matthewsintl.com",
+	        "mac_ws1_id": 12345,
+                "driver": "driver.pkg"
+        },
+        {
+	        "Printer_Name": "ssh01",
+	        "Location": "South Shore",
+            "Print_Server": "DC6-SV-PRINT01",
+	        "FQDN": "ssh01.matw.matthewsintl.com",
+	        "mac_ws1_id": 12345,
+            "driver": "driver.pkg"
+        },
+        {
+	        "Printer_Name": "ssh013",
+	        "Location": "South Shore",
+            "Print_Server": "DC6-SV-PRINT01",
+	        "FQDN": "ssh013.matw.matthewsintl.com",
+	        "mac_ws1_id": 12345,
+                "driver": "driver.pkg"
+        }
+]
