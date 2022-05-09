@@ -1,4 +1,5 @@
-        {
+[        
+	{
 	        "Printer_Name": "nsh015",
 	        "Location": "North Shore",
             "Print_Server": "DC6-SV-PRINT01",
@@ -54,4 +55,4 @@
 	        "mac_ws1_id": 12345,
                 "driver": "driver.pkg"
         }
-
+]
