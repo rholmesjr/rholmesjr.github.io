@@ -1,4 +1,3 @@
-[
         {
 	        "Printer_Name": "nsh015",
 	        "Location": "North Shore",
@@ -55,4 +54,4 @@
 	        "mac_ws1_id": 12345,
                 "driver": "driver.pkg"
         }
-]
+
