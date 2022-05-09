@@ -38,21 +38,6 @@
 	        "FQDN": "nsh016.matw.matthewsintl.com",
 	        "mac_ws1_id": 12345,
                 "driver": "driver.pkg"
-        },
-        {
-	        "Printer_Name": "ssh01",
-	        "Location": "South Shore",
-            "Print_Server": "DC6-SV-PRINT01",
-	        "FQDN": "ssh01.matw.matthewsintl.com",
-	        "mac_ws1_id": 12345,
-            "driver": "driver.pkg"
-        },
-        {
-	        "Printer_Name": "ssh013",
-	        "Location": "South Shore",
-            "Print_Server": "DC6-SV-PRINT01",
-	        "FQDN": "ssh013.matw.matthewsintl.com",
-	        "mac_ws1_id": 12345,
-                "driver": "driver.pkg"
         }
+        
 ]
