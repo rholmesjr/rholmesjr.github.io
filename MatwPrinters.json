@@ -38,6 +38,38 @@
 	        "FQDN": "nsh016.matw.matthewsintl.com",
 	        "mac_ws1_id": 12345,
                 "driver": "driver.pkg"
+        },
+        {
+	        "Printer_Name": "nsh005",
+	        "Location": "North Shore",
+            "Print_Server": "DC6-SV-PRINT01",
+	        "FQDN": "nsh005.matw.matthewsintl.com",
+	        "mac_ws1_id": 12345,
+                "driver": "driver.pkg"
+        },
+        {
+	        "Printer_Name": "nsh006",
+	        "Location": "North Shore",
+            "Print_Server": "DC6-SV-PRINT01",
+	        "FQDN": "nsh006.matw.matthewsintl.com",
+	        "mac_ws1_id": 12345,
+                "driver": "driver.pkg"
+        },
+        {
+	        "Printer_Name": "nsh007",
+	        "Location": "North Shore",
+            "Print_Server": "DC6-SV-PRINT01",
+	        "FQDN": "nsh007.matw.matthewsintl.com",
+	        "mac_ws1_id": 12345,
+                "driver": "driver.pkg"
+        },
+        {
+	        "Printer_Name": "nsh008",
+	        "Location": "North Shore",
+            "Print_Server": "DC6-SV-PRINT01",
+	        "FQDN": "nsh008.matw.matthewsintl.com",
+	        "mac_ws1_id": 12345,
+                "driver": "driver.pkg"
         }
         
 ]
